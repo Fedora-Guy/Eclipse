@@ -1,0 +1,12 @@
+Instructions
+Complete the InorderIterator class that has been started in the InorderIterator.java file.
+
+The constructor for this class should accept a TreeNode object that is the root of a tree. See TreeNode.java for details about the TreeNode class.
+
+Each time the next() method of this class is called, it should return the next node value from the tree with which the InorderIterator class was constructed. Here "next node" is defined according to an inorder traversal of the tree.
+
+The hasNext() method should return true if the tree has not yet been fully traversed and false if it has.
+
+Suggestion
+
+You will probably find it helpful to use pseudocode for an iterative (non-recursive) inorder traversal as a starting point. For instance, see https://en.wikipedia.org/wiki/Tree_traversal#In-order_implementation.

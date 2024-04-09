@@ -1,0 +1,18 @@
+Game:
+Isometric battle style like Final Fantasy Tactics
+How does it differ from Final Fantasy Tactics? Firstly, it's made by me, secondly, it is gonna be similar to D&D World of Conclicean places.
+
+
+TODO
+• Create Window Y
+• Create Battlemap (sorta)
+• Import generic Battlemap
+• include Player movement
+• Add addition information, such as Player Health, Player magic, and Player Activation Time
+• Implemenent Player Health, Player Magic, Player Activation 
+• Import Player Sprite, Import Player Animation, 
+• Import Goblin Cave Battlemap
+• Import Goblins
+• More to come.
+•
+•
